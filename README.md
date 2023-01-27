@@ -7,6 +7,6 @@ PCD Kelas B
 
 Hasil Percobaan Paper Uas Mata Kuliah Pengolahan Citra Digital
 
-*Analisis Paper di atas
+*Analisis Paper di lampirkan
 
 
